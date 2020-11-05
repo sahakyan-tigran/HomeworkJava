@@ -1,6 +1,6 @@
 package Lesson3.Models;
 
-public class ComputerGames {
+public class ComputerGame {
     private String name;
     private double memoryUsing;
     private String genre;
@@ -8,7 +8,7 @@ public class ComputerGames {
     private int countOfHeroes;
     private boolean isAboutWar;
 
-    public ComputerGames(String name, double memoryUsing, String genre, String name_hero, int countOfHeroes, boolean isAboutWar) {
+    public ComputerGame(String name, double memoryUsing, String genre, String name_hero, int countOfHeroes, boolean isAboutWar) {
         this.name = name;
         this.memoryUsing = memoryUsing;
         this.genre = genre;
