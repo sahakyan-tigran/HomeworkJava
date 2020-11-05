@@ -65,6 +65,4 @@ public class ComputerGame {
     public void setAboutWar(boolean aboutWar) {
         isAboutWar = aboutWar;
     }
-
-
 }
